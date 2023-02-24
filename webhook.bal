@@ -1,4 +1,5 @@
-mport wso2/choreo.sendsms;
+
+import wso2/choreo.sendsms;
 import ballerinax/trigger.asgardeo;
 import ballerina/http;
 import ballerina/log;
